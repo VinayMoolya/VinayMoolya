@@ -12,15 +12,15 @@
 <div>
 <img src="https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966" alt="coding_banner"/>
 <h2 align ="center">Languages / Technologies & Tools</h2>
-<div align="center" style="display:flex;flex-direction:row;justify-content:space-around;">
-    <img src="./images/logos/react.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/firebase.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/js.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/materialui.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/c++.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/scikit.png" width="10%" height="10%" style="border-radius:10px"/>
-    <img src="./images/logos/java.png" width="10%" height="10%" style="border-radius:10px">
-    <img src="./images/logos/python.png" width="10%" height="10%" style="border-radius:10px">
+<div align="center">
+    <img src="./images/logos/react.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/firebase.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/js.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/materialui.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/c++.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/scikit.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/java.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/python.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;">
 </div>
 <hr>
 <h2 align="center">Projects</h2>
@@ -104,7 +104,7 @@
 
 <hr>
 
-<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+<div align="center">
     <h2>📈 My Github Status</h2>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaymoolya&show_icons=true&locale=en&theme=radical" alt="vinaymoolya" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaymoolya&theme=radical" alt="vinaymoolya" /></p>
@@ -112,10 +112,10 @@
 
 <hr>
 <p align="center" style="font-size:25px;font-family:Verdana;">Let's Connect</p>
-<div style="display:flex;flex-direction:row;justify-content:center;align-items:center;">
-        <a href="https://www.linkedin.com/in/vinaymoolya/" target="_blank"><img src="./images/logos/linkedin.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
-        <a href="https://linktr.ee/vinaymoolya" target="_blank"><img src = "./images/logos/linktree.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
-        <a href="mailto:vinaymoolya2002@gmail.com" target="_blank"><img src = "./images/logos/gmail.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/vinaymoolya/" target="_blank"><img src="./images/logos/linkedin.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
+    <a href="https://linktr.ee/vinaymoolya" target="_blank"><img src = "./images/logos/linktree.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
+    <a href="mailto:vinaymoolya2002@gmail.com" target="_blank"><img src = "./images/logos/gmail.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
 </div>
 <hr>
 <h3 align="center" style="font-family:Sans-Serif;">👋🏻 That's it About me !! See ya Soon !</h3>
