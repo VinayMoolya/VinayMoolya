@@ -24,10 +24,7 @@
 </div>
 <hr>
 <h2 align="center">Projects</h2>
-<table border="1" 
-       cellpadding="10"
-       cellspacing="10"
-       width="100%">
+<table border="1" cellpadding="10" cellspacing="10" width="100%">
     <thead>
         <tr>
             <th style="text-align:center;" width="20%">Title</th>
@@ -107,22 +104,15 @@
 
 <hr>
 
-<div style="display:flex;
-        flex-direction:column;
-        justify-content:center;
-        align-items:center;">
-<h2>📈 My Github Status</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaymoolya&show_icons=true&locale=en&theme=radical" alt="vinaymoolya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaymoolya&theme=radical" alt="vinaymoolya" /></p>
+<div style="display:flex;flex-direction:column;justify-content:center;align-items:center;">
+    <h2>📈 My Github Status</h2>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinaymoolya&show_icons=true&locale=en&theme=radical" alt="vinaymoolya" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaymoolya&theme=radical" alt="vinaymoolya" /></p>
 </div>
 
 <hr>
 <p align="center" style="font-size:25px;font-family:Verdana;">Let's Connect</p>
-<div style="display:flex;
-        flex-direction:row;
-        justify-content:center;
-        align-items:center;">
+<div style="display:flex;flex-direction:row;justify-content:center;align-items:center;">
         <a href="https://www.linkedin.com/in/vinaymoolya/" target="_blank"><img src="./images/logos/linkedin.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
         <a href="https://linktr.ee/vinaymoolya" target="_blank"><img src = "./images/logos/linktree.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
         <a href="mailto:vinaymoolya2002@gmail.com" target="_blank"><img src = "./images/logos/gmail.png" alt="" width="50px" height="50px" style="border-radius:10px;margin: 0 10px;"/></a>
