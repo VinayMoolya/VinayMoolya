@@ -2,6 +2,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm VINAY MOOLYA</h1> -->
 <h3 align="center" style="color:#d68813;font-family:Fira Code;"><i>A Passionate Web Developer and an Budding AI/ML Enthusiast from India.</i></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinaymoolya&label=Profile%20views&color=0e75b6&style=flat" alt="vinaymoolya" /> </p>
 <hr>
 <h1 align="center" style="font-family:Sans-Serif;">👋🏻 About Me</h1>
 
