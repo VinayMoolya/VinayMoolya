@@ -35,6 +35,20 @@
     </thead>
     <tbody border=1>
         <tr>
+            <td style="text-align:center;" >AI Counsellor Chatbot</td>
+            <td style="text-align:center;" >Developed an AI Counsellor Bot which helps students in decision making for College Selection based on various criteria. It has an integrated Chatbot advising the student regarding the process , functions and other queries</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/AICounsellorChatbot" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >Global Commodity Trade Analyser</td>
+            <td style="text-align:center;" >Performed Global Commodity trade Analysis using Networking concepts and determined the major hubs and epicenters of trade using Networking Concepts.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/GlobalCommodityTradeAnalyser" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
             <td style="text-align:center;" >URL Shortener</td>
             <td style="text-align:center;" >Developed a URL shortener utility with React and SHRT CODE API.</td>
             <td style="text-align:center;" >
