@@ -42,7 +42,7 @@
             </td>
         </tr>
         <tr>
-            <td style="text-align:center;" >Global Commodity Trade Analyser</td>
+            <td style="text-align:center;" ><center>Global Commodity Trade Analyser</center></td>
             <td style="text-align:center;" >Performed Global Commodity trade Analysis using Networking concepts and determined the major hubs and epicenters of trade using Networking Concepts.</td>
             <td style="text-align:center;" >
                 <a href="https://github.com/VinayMoolya/GlobalCommodityTradeAnalyser" target="_blank">Repository</a><br>
