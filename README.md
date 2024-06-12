@@ -14,14 +14,17 @@
 <img src="https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966" alt="coding_banner"/>
 <h2 align ="center">Languages / Technologies & Tools</h2>
 <div align="center">
-    <img src="./images/logos/react.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/firebase.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/js.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/materialui.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/c++.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/scikit.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;"/>
-    <img src="./images/logos/java.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;">
-    <img src="./images/logos/python.png" width="10%" height="10%" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/react.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/firebase.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/js.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/materialui.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/c++.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/scikit.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
+    <img src="./images/logos/java.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/python.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/php.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/sql.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;">
+    <img src="./images/logos/powerbi.jpeg" width="10%" height="50px" style="border-radius:10px;margin:0 10px;">
 </div>
 <hr>
 <h2 align="center">Projects</h2>
@@ -34,6 +37,13 @@
         </tr>
     </thead>
     <tbody border=1>
+        <tr>
+            <td style="text-align:center;" >Medicine Recommendation Bot using LLMs (Gemini pro)</td>
+            <td style="text-align:center;" >Developed an Medicine Recommendation system leveraging Large Language Models aiming enhance efficiency in healthcare industry and bring more transparency and awareness among the patients.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/MedicineAI" target="_blank">Repository</a><br>
+            </td>
+        </tr>
         <tr>
             <td style="text-align:center;" >AI Counsellor Chatbot</td>
             <td style="text-align:center;" >Developed an AI Counsellor Bot which helps students in decision making for College Selection based on various criteria. It has an integrated Chatbot advising the student regarding the process , functions and other queries</td>
