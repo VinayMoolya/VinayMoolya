@@ -52,10 +52,54 @@
             </td>
         </tr>
         <tr>
+            <td style="text-align:center;" >Google Drive Clone (EdriveFMS)</td>
+            <td style="text-align:center;" >A Cloud-Based Storage Service built using React, Node and Firebase</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/gdrivefms" target="_blank">Repository</a><br>
+                <a href="https://vinaymoolya.github.io/gdrivefms/" target="_blank">Live Link</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >CryptoFinance Tracker</td>
+            <td style="text-align:center;" >A CryptoCurrency Tracker built using React , Material-UI and Coingecko API.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/cryptotracker" target="_blank">Repository</a><br>
+                <a href="https://vinaymoolya.github.io/cryptotracker/" target="_blank">Live Link</a>
+            </td>
+        </tr>
+        <tr>
             <td style="text-align:center;" ><center>Global Commodity Trade Analyser</center></td>
             <td style="text-align:center;" >Performed Global Commodity trade Analysis using Networking concepts and determined the major hubs and epicenters of trade using Networking Concepts.</td>
             <td style="text-align:center;" >
                 <a href="https://github.com/VinayMoolya/GlobalCommodityTradeAnalyser" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >Multi-Class Brain Tumor Classification Model</td>
+            <td style="text-align:center;" > Expirimented on various Transfer Learning models and other CNN models to achieve multi-class Classification.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/BrainTumor_SI" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+                <tr>
+            <td style="text-align:center;" >Customer Segmentation Using Kmeans Clustering</td>
+            <td style="text-align:center;" > Customer Segmentation based on their income-spending patterns using Kmeans Clustering Algorithm.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/KmeansCustomerSegmentation" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >NBA MVP Prediction</td>
+            <td style="text-align:center;" >Built a model to predict the next MVP in NBA season with historical data. Built using Python and Webmining Concepts.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/NBA_MVP_23_Prediction" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >Cataract Prediction</td>
+            <td style="text-align:center;" >Built an Machine Learning Model using various Transfer Learning models to justify the multi-class classification of cataract eye samples.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/Cataract_Prediction_ML" target="_blank">Repository</a><br>
             </td>
         </tr>
         <tr>
@@ -80,50 +124,14 @@
             </td>
         </tr>
         <tr>
-            <td style="text-align:center;" >Google Drive Clone (EdriveFMS)</td>
-            <td style="text-align:center;" >A Cloud-Based Storage Service built using React, Node and Firebase</td>
-            <td style="text-align:center;" >
-                <a href="https://github.com/VinayMoolya/gdrivefms" target="_blank">Repository</a><br>
-                <a href="https://vinaymoolya.github.io/gdrivefms/" target="_blank">Live Link</a>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" >CryptoFinance Tracker</td>
-            <td style="text-align:center;" >A CryptoCurrency Tracker built using React , Material-UI and Coingecko API.</td>
-            <td style="text-align:center;" > 
-                <a href="https://vinaymoolya.github.io/cryptotracker/" target="_blank">Repository</a><br>
-                <a href="https://vinaymoolya.github.io/cryptotracker/" target="_blank">Live Link</a>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" >Multi-Class Brain Tumor Classification Model</td>
-            <td style="text-align:center;" > Expirimented on various Transfer Learning models and other CNN models to achieve multi-class Classification.</td>
-            <td style="text-align:center;" >
-                <a href="https://github.com/VinayMoolya/BrainTumor_SI" target="_blank">Repository</a><br>
-            </td>
-        </tr>
-        <tr>
             <td style="text-align:center;" >Progressive Weather Application</td>
             <td style="text-align:center;" >Developed a Weather Application built it using React and openweather API which was then transformed to progressive application.</td>
             <td style="text-align:center;" >
                 <a href="https://github.com/VinayMoolya/weather_pwa" target="_blank">Repository</a><br>
             </td>
         </tr>
-        <tr>
-            <td style="text-align:center;" >NBA MVP Prediction</td>
-            <td style="text-align:center;" >Built a model to predict the next MVP in NBA season with historical data. Built using Python and Webmining Concepts.</td>
-            <td style="text-align:center;" >
-                <a href="https://github.com/VinayMoolya/NBA_MVP_23_Prediction" target="_blank">Repository</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" >Cataract Prediction</td>
-            <td style="text-align:center;" >Built an Machine Learning Model using various Transfer Learning models to justify the multi-class classification of cataract eye samples.</td>
-            <td style="text-align:center;" >
-                <a href="https://github.com/VinayMoolya/Cataract_Prediction_ML" target="_blank">Repository</a><br>
-            </td>
-        </tr>
     </tbody>
+
 </table>
 </div>
 
