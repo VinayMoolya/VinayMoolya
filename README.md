@@ -11,7 +11,7 @@
 <hr/>
 
 <div>
-<img src="https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966" alt="coding_banner"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding_banner"/>
 <h2 align ="center">Languages / Technologies & Tools</h2>
 <div align="center">
     <img src="./images/logos/react.png" width="10%" height="50px" style="border-radius:10px;margin:0 10px;"/>
