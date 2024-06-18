@@ -81,11 +81,18 @@
                 <a href="https://github.com/VinayMoolya/BrainTumor_SI" target="_blank">Repository</a><br>
             </td>
         </tr>
-                <tr>
+        <tr>
             <td style="text-align:center;" >Customer Segmentation Using Kmeans Clustering</td>
             <td style="text-align:center;" > Customer Segmentation based on their income-spending patterns using Kmeans Clustering Algorithm.</td>
             <td style="text-align:center;" >
                 <a href="https://github.com/VinayMoolya/KmeansCustomerSegmentation" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >Stock Price Prediction using LSTM</td>
+            <td style="text-align:center;" >Stock Price Prediction using Long Short Term Memory Models.(25 days Forecasting , 100 day Moving Averages )</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/LSTMStockPrediction" target="_blank">Repository</a><br>
             </td>
         </tr>
         <tr>
