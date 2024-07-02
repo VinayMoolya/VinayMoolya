@@ -75,6 +75,13 @@
             </td>
         </tr>
         <tr>
+            <td style="text-align:center;" >Amazon Reviews Sentiment Analyzer</td>
+            <td style="text-align:center;" >Ran 3 Sentiment Analysis Models (VADER , Roberta , Transformer-pipeline) on 1k reviews.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/SentimentAnalyzer" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
             <td style="text-align:center;" >Multi-Class Brain Tumor Classification Model</td>
             <td style="text-align:center;" > Expirimented on various Transfer Learning models and other CNN models to achieve multi-class Classification.</td>
             <td style="text-align:center;" >
