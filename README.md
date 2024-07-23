@@ -6,7 +6,7 @@
 <hr>
 <h1 align="center" style="font-family:Sans-Serif;">👋🏻 About Me</h1>
 
-<p align="justify" style="font-size:18px;font-family:Fira Code;">A determined and disciplined Web Developer who is adaptable and a life long learner possessing great interpersonal and problem solving skills. Wish to Contribute to the Tech Industry and is passionate about developing high impact , reliable , scalable and progressive applications. I like to explore emerging technologies and experiment with new tools and frameworks. I'm excited to showcase my technical skills and share my projects with you on this platform. Let's connect and discuss how we can collaborate to build something great!</p>
+<p align="justify" style="font-size:18px;font-family:Fira Code;">A determined and disciplined Developer focussed on Web Development , AI & ML and Data Analytics and is adaptable and a life long learner possessing great interpersonal and problem solving skills. Wish to Contribute to the Tech Industry and is passionate about developing high impact , reliable , scalable and progressive applications. I like to explore emerging technologies and experiment with new tools and frameworks. I'm excited to showcase my technical skills and share my projects with you on this platform. Let's connect and discuss how we can collaborate to build something great!</p>
 
 <hr/>
 
