@@ -82,6 +82,20 @@
             </td>
         </tr>
         <tr>
+            <td style="text-align:center;" >Sales Forecasting using SARIMAX</td>
+            <td style="text-align:center;" > Employed SARIMAX (Seasonal ARIMA model) for forecasting the champagne sales for the next 2 yrs.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/Sales_Forecasting" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" >Credit Risk Assessment using Ensemble Learning</td>
+            <td style="text-align:center;" > Employed AdaBoostClassifier to predict the risk of defaulting loans by analyzing various params and used GridSearchCV for parameter tuning.</td>
+            <td style="text-align:center;" >
+                <a href="https://github.com/VinayMoolya/CreditRiskAssessment" target="_blank">Repository</a><br>
+            </td>
+        </tr>
+        <tr>
             <td style="text-align:center;" >Multi-Class Brain Tumor Classification Model</td>
             <td style="text-align:center;" > Expirimented on various Transfer Learning models and other CNN models to achieve multi-class Classification.</td>
             <td style="text-align:center;" >
